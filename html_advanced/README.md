@@ -1,0 +1,1 @@
+The website primarily consists of various rectangles in different sizes. Additionally, it incorporates circular shapes along with corresponding images. Moreover, the site employs a variety of background colors to enhance its visual appeal and overall design.
